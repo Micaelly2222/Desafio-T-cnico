@@ -2,7 +2,7 @@
 
 O código consiste em um desafio proposto pela empresa Loggi.
 
-# Ferramentas Utilizadas
+# Linguagens e Ferramentas Utilizadas
 
 * [Python](https://docs.python.org/pt-br/3/tutorial/) 
 * [Jupyter Notebook](https://jupyter.org/) 
