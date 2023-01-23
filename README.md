@@ -1,6 +1,6 @@
 ## Desafio Tecnico Python
 
-O código consiste em um desafio proposto pela empresa Loggi.
+O código consiste em um desafio em Python.
 
 ## Linguagens e Ferramentas Utilizadas
 
