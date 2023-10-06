@@ -1,12 +1,19 @@
-## Desafio Tecnico Python
+## Desafio Técnico Python - Decodificando Códigos de Barras
 
-O código consiste em um desafio em Python.
+### Visão Geral
+
+Este desafio consiste em criar um código em Python para decodificar códigos de barras, permitindo aos usuários obter informações detalhadas sobre um grupo de pacotes com base em seus códigos de barras. As informações decodificadas incluem a região de origem, a região de destino, o vendedor responsável e o tipo de produto de cada pacote.
 
 ## Linguagens e Ferramentas Utilizadas
 
 * [Python](https://docs.python.org/pt-br/3/tutorial/), linguagem de programação de alto nível
 * [Jupyter Notebook](https://jupyter.org/), aplicação online que permite criar e compartilhar código interativo
 * [Pandas](https://pypi.org/project/pandas/), biblioteca para análise e manipulação de dados
+
+## Requisitos Mínimos de Instalação
+
+Python (versão 3.6 ou superior)
+
 
 ## Objetivo do Desafio
 
